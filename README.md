@@ -6,20 +6,16 @@ I'm a Computer Science student at Brno University of Technology (VUT) with a pas
 
 💻 Tech Stack
 
-Programming Languages: Python, C, C++
+Programming Languages: Python, C, C++,Csharp
 
-Interests: Embedded systems, algorithms, numerical computing
+Interests: Math, tinkering, embedded systems, drones
 
 Tools & Platforms: Linux, Git, VS Code
 
 📚 What I'm Learning
 
 I'm currently expanding my knowledge in:
-
-Advanced C++ and VHDL
-
-Machine learning and mathematical modeling
-
+ C++
 📫 How to Reach Me
 Email: [xpanekv00@vutbr.cz]
 
