@@ -14,7 +14,7 @@ Tools & Platforms: Linux, Git, VS Code
 
 📚 What I'm Learning
 
-I'm currently expanding my knowledge in:
+I'm currently expanding my knowledge in:\n
 Applied math for machine learning
  
 📫 How to Reach Me
